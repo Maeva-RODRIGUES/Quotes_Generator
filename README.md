@@ -19,5 +19,4 @@ Développement d'une application web qui génère des citations aléatoires, met
 ![Screenshot](./assets/img/Screenshot.PNG)
 
 ## 🔗 Liens vers la démo
-https://maeva-rodrigues.github.io/Mental_Arithmetic_App/
-
+https://maeva-rodrigues.github.io/Quotes_Generator/
